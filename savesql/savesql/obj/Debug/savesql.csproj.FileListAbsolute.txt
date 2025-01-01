@@ -1,0 +1,10 @@
+C:\Users\beris\OneDrive\Desktop\sql-c#1\savesql\savesql\bin\Debug\savesql.exe.config
+C:\Users\beris\OneDrive\Desktop\sql-c#1\savesql\savesql\bin\Debug\savesql.exe
+C:\Users\beris\OneDrive\Desktop\sql-c#1\savesql\savesql\bin\Debug\savesql.pdb
+C:\Users\beris\OneDrive\Desktop\sql-c#1\savesql\savesql\obj\Debug\savesql.csproj.AssemblyReference.cache
+C:\Users\beris\OneDrive\Desktop\sql-c#1\savesql\savesql\obj\Debug\savesql.Form1.resources
+C:\Users\beris\OneDrive\Desktop\sql-c#1\savesql\savesql\obj\Debug\savesql.Properties.Resources.resources
+C:\Users\beris\OneDrive\Desktop\sql-c#1\savesql\savesql\obj\Debug\savesql.csproj.GenerateResource.cache
+C:\Users\beris\OneDrive\Desktop\sql-c#1\savesql\savesql\obj\Debug\savesql.csproj.CoreCompileInputs.cache
+C:\Users\beris\OneDrive\Desktop\sql-c#1\savesql\savesql\obj\Debug\savesql.exe
+C:\Users\beris\OneDrive\Desktop\sql-c#1\savesql\savesql\obj\Debug\savesql.pdb
